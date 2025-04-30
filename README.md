@@ -23,11 +23,6 @@ This project is a fully responsive, stylish HTML/CSS-based website that promotes
 - Font Awesome (via CDN)
 - Responsive design with media queries
 
-## 📷 Screenshots
-
-![Screenshot](screenshot.png)  
-_Add a screenshot of your landing page here._
-
 ## 📁 Project Structure
 
 ```bash
